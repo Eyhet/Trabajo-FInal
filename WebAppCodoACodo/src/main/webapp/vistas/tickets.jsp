@@ -43,10 +43,10 @@
 
                         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <div class="navbar-nav ms-auto me-auto" >
-                                <a class="nav-link active coloresnavbar" aria-current="page" href="index.html">Los Parques</a>
-                                <a id="tickets" class="nav-link coloresnavbar" href="tickets.html">Tickets</a>
-                                <a style="color: purple;" id="textonav1" class="nav-link active" aria-current="page" href="#nosotros">Perfil</a>
-                                <a id="itemnavbartickets" class="nav-link" href="registro.html">Registrate</a>
+                                <a class="nav-link active coloresnavbar" aria-current="page" href="index.jsp">Los Parques</a>
+                                <a id="tickets" class="nav-link coloresnavbar" href="tickets.jsp">Tickets</a>
+                                <a style="color: purple;" id="textonav1" class="nav-link active" aria-current="page" href="perfil.jsp">Perfil</a>
+                                <a id="itemnavbartickets" class="nav-link" href="registro.jsp">Registrate</a>
 
                             </div>
                         </div>
